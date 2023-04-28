@@ -1,4 +1,6 @@
-# concept_drift_in_metabolomics_predictions
+# SAPCDAMP 
+Semi-Automatic Pipeline using Concept Drift Analysis for improving Metabolomics Predictions (SAPCDAMP)
+
 In this repository we offer semi-autonomic pipeline for enhaced metabolomics predictions. 
 
 The whole pipeline is divided into three sections ([A], [B], [C]) at the end of which the evaluation parameters of individual prediction models are shown and summarized.
