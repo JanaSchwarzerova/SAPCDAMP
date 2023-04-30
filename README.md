@@ -1,5 +1,5 @@
 # SAPCDAMP 
-Semi-Automatic Pipeline using Concept Drift Analysis for improving Metabolomics Predictions (SAPCDAMP)
+Semi-Automated Pipeline using Concept Drift Analysis for improving Metabolomics Predictions (SAPCDAMP)
 
 In this repository we offer semi-autonomic pipeline for enhaced metabolomics predictions. 
 
