@@ -150,3 +150,16 @@ After running the pipeline, the accuracy, precision, recall, and other evaluatio
 ---
 **Note**: The repository is designed to run on Google Colab, making it easier to run experiments in a cloud-based environment without worrying about local setups. Make sure to upload the necessary datasets and follow the steps as outlined above.
 
+---
+**Datasets & Literature**:
+> Metabolite unification nomenclature was performed for GM (training and testing) and CSF (validation) and CML (validation) data:
+
+1] GM data
+> Chu,X. et al. (2021) Integration of metabolomics, genomics, and immune phenotypes reveals the causal roles of metabolites in disease. Genome Biol, 22.
+
+2] CSF data
+> Li,K. et al. (2022) Cerebrospinal fluid and plasma metabolomics of acute endurance exercise. FASEB Journal, 36.
+
+3] CML data
+> Karlíková, R., et al. (2016) Metabolite profiling of the plasma and leukocytes of chronic myeloid leukemia patients. Journal of proteome research, 15.
+
