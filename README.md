@@ -1,6 +1,6 @@
 # Semi-Automated Pipeline using Concept Drift Analysis for improving Metabolomics Predictions (SAPCDAMP)
 
-In this repository, we offer a semi-automated pipeline for enhanced metabolomics predictions. This pipeline leverages various machine learning techniques, concept drift detection methods, and data preprocessing strategies to improve predictive accuracy.
+In this repository, we offer a semi-automated pipeline for enhanced metabolomics predictions (SemiAutomated_pipeline_py_notebook.ipynb). This pipeline leverages various machine learning techniques, concept drift detection methods, and data preprocessing strategies to improve predictive accuracy.
 
 The whole pipeline is divided into three sections ([A], [B], [C]), at the end of which the evaluation parameters of individual prediction models are shown and summarized.
 
